@@ -1,0 +1,3 @@
+[submodule "ArchLens-in-VsCode"]
+	path = ArchLens-in-VsCode
+	url = https://github.com/casperh123/ArchLens-in-VsCode
